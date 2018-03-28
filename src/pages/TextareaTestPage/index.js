@@ -14,7 +14,7 @@ export default class FirstCase extends React.Component {
         content: 'url:get?a=1&b=123&asdfassdf\n' +
         '中文: 我这辈子是不可能写 bug 的\n' +
         '邮箱: liyanhong@baidu.com;luqi@baidu.com\n' +
-        'asdf\n'
+        'asdf'
     };
 
     bindRef(ref) {

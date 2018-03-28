@@ -13,6 +13,7 @@
     outline: none;
     resize: none;
     background-color: #eaeef5;
+    overflow: auto;
 }
 
 .test-component-ctn .textarea:focus{
