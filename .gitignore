@@ -1,0 +1,14 @@
+# parcel cache
+.cache
+
+# git files
+.git
+
+# idea files
+.idea
+
+# node_modules
+node_modules
+
+# dist folder
+dist

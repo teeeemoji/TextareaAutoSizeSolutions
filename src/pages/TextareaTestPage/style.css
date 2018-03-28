@@ -1,0 +1,20 @@
+.test-component-ctn {
+    width: 100%;
+}
+
+.test-component-ctn .textarea {
+    width: 100%;
+    min-height: 50px;
+    max-height: 400px;
+    padding: 4px;
+    border: 1px solid #eaeef5;
+    border-radius: 6px;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    background-color: #eaeef5;
+}
+
+.test-component-ctn .textarea:focus{
+    border-color: #ccc;
+}

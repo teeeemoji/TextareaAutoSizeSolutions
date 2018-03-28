@@ -1,0 +1,14 @@
+.page-one {
+
+}
+
+.page-one .with-bc {
+    background: url(./bc.png);
+    outline: none;
+}
+
+.page-one .with-size {
+    width: 100%;
+    height: 100px;
+    resize: none;
+}

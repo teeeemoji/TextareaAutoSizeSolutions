@@ -1,0 +1,48 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.page-container {
+    width: 1060px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.page-title {
+}
+
+.react-Logo {
+    transition: 3s;
+    height: 100px;
+    width: 100px;
+}
+
+.react-Logo:hover {
+    transform: rotate(1080deg);
+}
+
+.component-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 20px;
+    min-height: 500px;
+}
+
+.home-link {
+    font-weight: normal;
+    text-decoration: none;
+    color: #666;
+}
+
+.home-link:hover {
+    color: #5076fb;
+}
+
+.home-link:visited {
+    color: #666;
+}
+
+.home-link:visited:hover {
+    color: #5076fb;
+}
