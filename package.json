@@ -31,6 +31,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "classnames": "^2.2.5",
     "jquery": "^3.3.1",
     "parcel-bundler": "^1.6.2",
     "react-hyperscript-helpers": "^1.2.0",

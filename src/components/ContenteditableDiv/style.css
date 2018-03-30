@@ -1,0 +1,16 @@
+.comp-div-contenteditable {
+
+}
+
+.textarea {
+    text-align: left;
+}
+
+.textarea[placeholder]:empty:before {
+    content: attr(placeholder);
+    color: #555;
+}
+
+.textarea-ghost {
+
+}

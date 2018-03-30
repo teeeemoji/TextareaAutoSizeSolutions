@@ -2,7 +2,7 @@ import TestPage from './TestPage';
 import FirstCase from './pages/FirstCase';
 import ZeroCase from './pages/ZeroCase';
 import SecondCase from './pages/SecondCase';
-// import ThirdCase from './pages/ThirdCase';
+import ThirdCase from './pages/ThirdCase';
 
 export default [
     {
@@ -25,9 +25,9 @@ export default [
         name: 'second case',
         component: SecondCase
     },
-    // {
-    //     path: '/third-case',
-    //     name: 'third case',
-    //     component: ThirdCase
-    // }
+    {
+        path: '/third-case',
+        name: 'third case',
+        component: ThirdCase
+    }
 ];
